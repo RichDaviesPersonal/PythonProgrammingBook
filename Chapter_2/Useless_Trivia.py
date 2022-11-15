@@ -26,7 +26,7 @@ print("\nYou're over", seconds, "seconds old.")
 
 moon_weight = weight / 6
 print("\nDid you know that on the moon you would weigh only",
-      moonweight, "pounds?")
+      moon_weight, "pounds?")
 
 sun_weight = weight * 27.1
 print("On the sun, you'd weigh", sun_weight, "(but, ah... not for long).")
